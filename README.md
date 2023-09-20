@@ -27,9 +27,3 @@ This app will will provide a base template for future developments on e-commerce
 
 # Banter
 
-    -   ALGORITHM OF SUCCESS
-    while(noSuccess){
-        tryAgain();
-    if(dead)
-    break();
-    }
